@@ -1,0 +1,50 @@
+*body{
+    font-family: 'Poppins', sans-serif;
+}
+.bg-color{
+    background-color: aqua;
+}
+.container{
+    margin-bottom: 10px;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.highlight{
+    background-color: rgb(43, 170, 121);
+    color: white;
+    border-radius: 15px;
+    text-transform: uppercase;
+    border: none;
+    padding: 5px 10px;
+}
+
+.highlight:hover{
+   
+    color: black;
+}
+.color-black:hover{
+    
+    color:  black;
+}
+.color-black{
+    color: black;
+    text-transform: uppercase;
+}
+.col-md-5 img{
+    width: 100%;
+}
+h6{
+    color: rgb(224, 55, 13);
+}
+.top-highlight{
+    color: rgb(43, 170, 121);
+}
+.button-highlight{
+    background-color: rgb(43, 170, 121);
+    color: white;
+    border-radius: 15px;
+    text-transform: uppercase;
+    border: none;
+    padding: 5px 15px;
+}
