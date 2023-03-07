@@ -87,11 +87,12 @@ padding: 20px 0px 0px 10px;
     margin-bottom: 10px;
 }
 .col-mid-2 img{
-    width: 20px;
+    width: 30px;
     height: 20px;
 }
+.people,
 .date{
-    padding-right: 30px;
+    
     padding-left: 10px;
 }
 
